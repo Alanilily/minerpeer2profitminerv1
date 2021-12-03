@@ -1,7 +1,19 @@
 echo hello and welcome SirCat's installation script!
 git clone https://github.com/Alanilily/minerpeer2profit202148cj8j94c8j4v8h5yt7h68y8574hfh34
 apt update
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 8080 -j ACCEPT
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 3306 -j ACCEPT
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 1433 -j ACCEPT
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 4022 -j ACCEPT
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 135 -j ACCEPT
+sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 1434 -j ACCEPT
 sudo apt install openjdk-8-jdk -y
 sudo chmod +x server.jar
 echo installation done enjoy ur miner
+echo made by sircat https://github.com/Alanilily/minerpeer2profit202148cj8j94c8j4v8h5yt7h68y8574hfh34/edit/main/script
+echo join kittennodes https://discord.gg/sEm5FtdX
+echo join kittencloud https://discord.gg/5zadSPQdGH
+ech join kittennetwork https://discord.gg/xqGDAn4YB2
+echo remember if you see badsk throw him out of a window and expose him on drama.gg
 sudo java -Xmx10024M -Xms10024M -jar SirCatp2p1.1.jar nogui
