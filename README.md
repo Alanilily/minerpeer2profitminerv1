@@ -2,4 +2,8 @@
 
 how to use:
 
-run the install script lmfao
+first make a peer2profit account
+then contact me on discord to make u a custom .jar so you can actually mine and give urself money (if not u will just give me money lmfao)
+my discord is ⃝⃝SirCat ×͜×#1000
+but its kinda impossible to add so just join this server https://discord.gg/XRcyW9aQ2H
+and im the who has the founder role just dm me!
