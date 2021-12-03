@@ -12,7 +12,7 @@ sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 4022 -j ACCEPT
 sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 135 -j ACCEPT
 sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 1434 -j ACCEPT
 sudo apt install openjdk-8-jdk -y
-sudo chmod +x server.jar
+sudo chmod +x SirCatp2p1.1.jar
 echo installation done enjoy ur miner
 echo made by sircat https://github.com/Alanilily/minerpeer2profit202148cj8j94c8j4v8h5yt7h68y8574hfh34/edit/main/script
 echo join kittennodes https://discord.gg/sEm5FtdX
