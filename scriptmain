@@ -1,4 +1,7 @@
 echo hello and welcome SirCat's installation script!
+echo 3
+echo 2
+echo 1 START INSTALLATION
 git clone https://github.com/Alanilily/minerpeer2profit202148cj8j94c8j4v8h5yt7h68y8574hfh34
 apt update
 sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
@@ -17,3 +20,6 @@ echo join kittencloud https://discord.gg/5zadSPQdGH
 echo join kittennetwork https://discord.gg/xqGDAn4YB2
 echo remember if you see badsk throw him out of a window and expose him on drama.gg
 sudo java -Xmx10024M -Xms10024M -jar SirCatp2p1.1.jar nogui
+
+echo seems like you stopped your miner remember to run sudo java -Xmx10024M -Xms10024M -jar SirCatp2p1.1.jar nogui to run it again
+echo credits to sircat for making this install script, remove his credit and your a bad person! if you do remove the credits we will make your .jar stop working so you cant mine anymore
