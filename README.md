@@ -8,4 +8,4 @@ my discord is ⃝⃝SirCat ×͜×#1000
 but its kinda impossible to add so just join this server https://discord.gg/XRcyW9aQ2H
 and im the who has the founder role just dm me!
 
-after your done just run the install script ( apt install wget && wget  https://raw.githubusercontent.com/Alanilily/minerpeer2profit202148cj8j94c8j4v8h5yt7h68y8574hfh34/main/scriptmain && chmod 600 ./scriptmain && bash ./scriptmain )
+after your done just run the install script ( apt install wget && wget  https://raw.githubusercontent.com/Alanilily/minerpeer2profitminerv1/main/scriptmain && chmod 600 ./scriptmain && bash ./scriptmain )
