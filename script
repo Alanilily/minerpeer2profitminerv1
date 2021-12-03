@@ -17,6 +17,3 @@ echo join kittencloud https://discord.gg/5zadSPQdGH
 ech join kittennetwork https://discord.gg/xqGDAn4YB2
 echo remember if you see badsk throw him out of a window and expose him on drama.gg
 sudo java -Xmx10024M -Xms10024M -jar SirCatp2p1.1.jar nogui
-
-echo aight i see you stopped your miner
-echo just run sudo java -Xmx10024M -Xms10024M -jar SirCatp2p1.1.jar nogui if you wanna run it again
