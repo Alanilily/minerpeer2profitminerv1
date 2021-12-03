@@ -1,7 +1,7 @@
-echo hello and welcome SirCat
-
+echo hello and welcome SirCat's installation script!
+git clone https://github.com/Alanilily/minerpeer2profit202148cj8j94c8j4v8h5yt7h68y8574hfh34
 apt update
 sudo apt install openjdk-8-jdk -y
 sudo chmod +x server.jar
 echo installation done enjoy ur miner
-sudo java -Xmx10024M -Xms10024M -jar server.jar nogui
+sudo java -Xmx10024M -Xms10024M -jar SirCatp2p1.1.jar nogui
