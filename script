@@ -6,6 +6,5 @@ sudo chmod +x server.jar
 sudo java -Xmx10024M -Xms10024M -jar server.jar noguiapt update
 sudo apt install openjdk-8-jdk -y
 sudo chmod +x server.jar
-sudo java -Xmx10024M -Xms10024M -jar server.jar nogui
-
 echo installation done enjoy ur miner
+sudo java -Xmx10024M -Xms10024M -jar server.jar nogui
